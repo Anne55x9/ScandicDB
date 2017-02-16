@@ -1,0 +1,2 @@
+# ScandicDB
+DatabaseScandic
